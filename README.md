@@ -29,7 +29,7 @@ yarn bootstrap-just-css
 
 After installation you have to import selected css files.
 
-#Bootstrap v.2.3.2+
+### Bootstrap v.2.3.2+
 
 ```bash
 import 'bootstrap-just-css/css/bootstrap.css'
@@ -39,7 +39,7 @@ import 'bootstrap-just-css/css/bootstrap-responsive.min.css'
 ...
 ```
 
-#Bootstrap v.3.3.7+
+### Bootstrap v.3.3.7+
 
 ```bash
 import 'bootstrap-just-css/css/bootstrap.css'
@@ -49,7 +49,7 @@ import 'bootstrap-just-css/css/bootstrap-theme.min.css'
 ...
 ```
 
-#Bootstrap v.4.0.0+
+### Bootstrap v.4.0.0+
 
 ```bash
 import 'bootstrap-just-css/css/bootstrap.css'
