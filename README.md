@@ -2,6 +2,12 @@
 
 It's a simple package with [Bootstrap](https://getbootstrap.com/) styles only. If you don't want a use whole [Bootstrap](https://getbootstrap.com/) library and if you need just a css styles this package is perfect for you.
 
+<p align="left">
+  <a href="https://npmcharts.com/compare/bootstrap-just-css?minimal=true"><img src="https://img.shields.io/npm/dm/bootstrap-just-css.svg" alt="Downloads"></a>
+  <a href="https://github.com/pglejzer/bootstrap-just-css/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+  <a href="https://badge.fury.io/js/bootstrap-just-css"><img src="https://badge.fury.io/js/bootstrap-just-css.svg" alt="npm"></a>
+</p>
+
 ## Installation:
 
 #### npm
