@@ -65,6 +65,3 @@ import 'bootstrap-just-css/css/bootstrap-reboot.min.css'
 
 This package is open source software licensed as MIT and used [MIT license](https://github.com/twbs/bootstrap/blob/v4.4.1/LICENSE) from Bootstrap.
 
-```
-
-```
