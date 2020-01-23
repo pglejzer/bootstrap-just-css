@@ -25,6 +25,18 @@ _(npx is a package runner tool that comes with npm 5.2+ and higher)_
 yarn bootstrap-just-css
 ```
 
+### Versions
+
+You can install selected Bootstrap version with #.
+
+```bash
+yarn bootstrap-just-css#2.3.2
+yarn bootstrap-just-css#4.3.1
+yarn bootstrap-just-css#4.0.0
+yarn bootstrap-just-css#4.4.1
+
+```
+
 ## Usage:
 
 After installation you have to import selected css files.
@@ -64,4 +76,3 @@ import 'bootstrap-just-css/css/bootstrap-reboot.min.css'
 ## License:
 
 This package is open source software licensed as MIT and used [MIT license](https://github.com/twbs/bootstrap/blob/v4.4.1/LICENSE) from Bootstrap.
-
