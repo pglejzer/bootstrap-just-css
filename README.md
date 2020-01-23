@@ -1,7 +1,6 @@
 # Bootstrap just CSS
 
-It's a simple package with [Bootstrap](https://getbootstrap.com/) styles only. <br>
-If you don't want a use whole [Bootstrap](https://getbootstrap.com/) library and if you need just a css styles this package is perfect for you.
+It's a simple package with [Bootstrap](https://getbootstrap.com/) styles only. If you don't want a use whole [Bootstrap](https://getbootstrap.com/) library and if you need just a css styles this package is perfect for you.
 
 ## Installation:
 
