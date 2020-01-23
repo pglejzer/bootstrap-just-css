@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-just-css",
+  "version": "4.3.1",
+  "description": "",
+  "main": "css/bootstrap.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pglejzer/bootstrap-just-css.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "design",
+    "css",
+    "fonts",
+    "mdbootstrap",
+    "front-end",
+    "web"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pglejzer/bootstrap-just-css/issues"
+  },
+  "homepage": "https://getbootstrap.com"
+}
