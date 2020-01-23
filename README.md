@@ -27,7 +27,7 @@ _(npx is a package runner tool that comes with npm 5.2+ and higher)_
 #### Yarn
 
 ```bash
-yarn bootstrap-just-css
+yarn add bootstrap-just-css
 ```
 
 ### Versions
@@ -35,7 +35,7 @@ yarn bootstrap-just-css
 You can install selected Bootstrap version.
 
 ```bash
-yarn bootstrap-just-css@2.3.2
+yarn add bootstrap-just-css@2.3.2
 npm install bootstrap-just-css@4.3.1
 ```
 
