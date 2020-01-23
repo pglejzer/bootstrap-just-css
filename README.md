@@ -27,14 +27,11 @@ yarn bootstrap-just-css
 
 ### Versions
 
-You can install selected Bootstrap version with #.
+You can install selected Bootstrap version.
 
 ```bash
-yarn bootstrap-just-css#2.3.2
-yarn bootstrap-just-css#4.3.1
-yarn bootstrap-just-css#4.0.0
-yarn bootstrap-just-css#4.4.1
-
+yarn bootstrap-just-css@2.3.2
+npm install bootstrap-just-css@4.3.1
 ```
 
 ## Usage:
