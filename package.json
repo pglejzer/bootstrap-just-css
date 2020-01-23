@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-just-css",
-  "version": "3.4.1",
+  "version": "4.0.0",
   "description": "[Bootstrap](https://getbootstrap.com/) CSS and font libraries only. Simple package without JavaScript.",
   "main": "css/bootstrap.min.css",
   "repository": {
